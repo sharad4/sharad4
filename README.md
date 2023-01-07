@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source data science and react projects**
 
-- 👨‍💻 All of my projects are available at [https://sr-portfolio.netlify.app](Portfolio)
+- 👨‍💻 All of my projects are available at [https://sharad4.netlify.app](Portfolio)
 
 - 💬 Ask me about **Pandas,Python,Django,React**
 
