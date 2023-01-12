@@ -31,6 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharad4&show_icons=true&locale=en" alt="sharad4" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharad4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--&nbsp;-->
