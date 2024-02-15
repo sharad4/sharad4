@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sharad Rao</h1>
 <h3 align="center">I'm passionate self-learner and a python developer, who is obsessed with Data science and always looking to find patterns which are hidden in the data.</h3>
 
-- 🔭 I’m currently working on **Data science project**
-
-- 🌱 I’m currently learning **AWS SAA-C03**
-
-- 👯 I’m looking to collaborate on **open source data science and react projects**
+- 👯 I’m looking to collaborate on **open source Django, PHP, react projects**
 
 - 👨‍💻 All of my projects are available at [https://sharad4.netlify.app](Portfolio)
 
-- 💬 Ask me about **Pandas,Python,Django,React**
+- 💬 Ask me about **PHP,Python,Django,React**
 
 - 📫 How to reach me **sharad011989@gmail.com**
 
