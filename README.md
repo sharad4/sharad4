@@ -26,6 +26,7 @@
 
 <hr>
 <p align="left">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sharad4&theme=dracula&show_icons=true&hide_border=false&count_private=true" /></p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharad4&show_icons=true&locale=en&layout=compact" alt="sharad4" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharad4&show_icons=true&locale=en" alt="sharad4" /></p>
