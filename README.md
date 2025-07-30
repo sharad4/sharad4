@@ -1,7 +1,7 @@
 # Hi there, I'm Sharad Rao! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software+Developer;Full+Stack+Engineer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software+Developer;Full+Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
