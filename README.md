@@ -18,9 +18,9 @@ const sharadRao = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     role: "Full Stack Developer",
-    languages: ["PHP", "Python", "JavaScript", "C++", "CodeIgniter"],
-    specialties: ["Web Development", "Data Science", "Backend Systems"],
-    currentFocus: "Building scalable web applications & exploring AI/ML",
+    languages: ["PHP", "JavaScript", "TypeScript", "C++"],
+    specialties: ["Laravel", "React", "Node.js", "Web Development", "API Integration"],
+    currentFocus: "Advanced Laravel + MERN stack apps",
     funFact: "I believe in improving both frontend and backend! 🎯",
     openToWork: true
 };
@@ -39,7 +39,6 @@ const sharadRao = {
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -47,8 +46,8 @@ const sharadRao = {
 
 ### 🚀 Frameworks & Libraries
 <p>
+  <img src="https://img.shields.io/badge/Laravel-EF4223?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -79,15 +78,6 @@ const sharadRao = {
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
-### 📊 Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 </div>
@@ -127,24 +117,24 @@ const sharadRao = {
 mindmap
   root((Sharad Rao))
     Open Source
-      Django Projects
-      PHP Libraries
+      Laravel Packages
       React Components
+      API Integrations
     Learning
-      Advanced Python
-      Cloud Architecture
-      Machine Learning
+      Advanced Laravel
+      React Patterns
+      DevOps for Full Stack
     Building
-      Full Stack Apps
-      API Services
-      Data Pipelines
+      MERN Stack Projects
+      RESTful APIs
+      Full Stack SaaS Apps
 ```
 
 </div>
 
 ### 🔥 What I'm Up To
 
-- 🌱 Currently mastering **Advanced Django & React Patterns**
+- 🌱 Currently mastering **Advanced Laravel & React Patterns**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤝 Open to **Full-time opportunities** and **Freelance work**
 - 💡 Working on **AI-powered web applications**
@@ -172,11 +162,9 @@ mindmap
 
 | 🏢 Role | 🛠️ Technologies | 🎯 Focus |
 |---------|------------------|----------|
-| **Full Stack Developer** | PHP, CodeIgniter, React | Web Applications |
-| **Python Developer** | Django, Flask, Pandas | Backend & Data |
+| **Full Stack Developer** | PHP, Laravel, CodeIgniter, React | Web Applications |
+| **Nodejs Developer** | Express, MongoDB | Backend & Data |
 | **Frontend Developer** | JavaScript, React, CSS | User Interfaces |
-| **Data Analyst** | Python, ML Libraries | Data Insights |
-
 </div>
 
 ---
